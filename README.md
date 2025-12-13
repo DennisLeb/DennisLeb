@@ -1,6 +1,6 @@
 # Welcome! ✌️
 
-## My name's Dennis and right now, I'm learning how to programm in C 🖥️
+## My name's Dennis and right now, I'm learning how to program in C 🖥️
 
 
 My main method of learning is through programming literature 📖. It's what works best for me.
