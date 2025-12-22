@@ -1,12 +1,17 @@
-# Welcome! ✌️
+# Hey und willkommen! ✌️
 
-## My name's Dennis and right now, I'm learning how to program in C 🖥️
+## Ich bin Dennis und ich lerne zurzeit C++!
 
 
-My main method of learning is through programming literature 📖. It's what works best for me.
+Im Moment lerne ich eigenmotiviert und mithilfe von Informatikliteratur 📖. So mache ich aus Erfahrung die besten Fortschritte.
 
-For starters, I just finished ***C Programming Absolute Beginner's Guide*** by ***Greg Perry***.
+Gerade habe ich ***C Programming Absolute Beginner's Guide*** von ***Greg Perry*** fertig gelesen, um mir einen Überblick über die C Programmiersprache zu verschaffen.
 
-To apply what I've learned, I usually come up with a program that would benefit from these new concepts and then post it on here to track my progress.
+Zurzeit arbeite ich mit ***Programming Principles and Practice Using C++ (3rd Edition)*** von ***Bjarne Stroustrup***.
+![bjarne smol](https://github.com/user-attachments/assets/6a907c11-9e78-45c0-befc-b200785eba3f)
 
-### Much more to come! 🙌
+  
+
+Um mein Gelerntes anzuwenden, denke ich mir ab und zu ein Übungsprogramm aus, das bestimmte Features einer Sprache gut gebrauchen kann und veröffentliche das Ganze dann hier um meinen Fortschritt zu prüfen.
+
+## 
