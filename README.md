@@ -8,7 +8,6 @@ Im Moment lerne ich eigenmotiviert und mithilfe von Informatikliteratur 📖. So
 Gerade habe ich ***C Programming Absolute Beginner's Guide*** von ***Greg Perry*** fertig gelesen, um mir einen Überblick über die C Programmiersprache zu verschaffen.
 
 Zurzeit arbeite ich mit ***Programming Principles and Practice Using C++ (3rd Edition)*** von ***Bjarne Stroustrup***.
-![bjarne smol](https://github.com/user-attachments/assets/6a907c11-9e78-45c0-befc-b200785eba3f)
 
   
 
